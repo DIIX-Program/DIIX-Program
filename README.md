@@ -73,7 +73,7 @@ What I Can Do:
 
 ## Contact
 
-Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+Email: [diixprogramseven@gmail.com](mailto:your-email@gmail.com)
 
 ---
 
