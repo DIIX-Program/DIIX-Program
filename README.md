@@ -1,4 +1,5 @@
-# Hi, I'm Đức Thiện
+<h1 align="center">Hi, I'm Đức Thiện</h1>
+<h3 align="center">Backend Developer In Progress</h3>
 
 ---
 
@@ -12,42 +13,14 @@
 
 ## About Me
 
-* Third-Year IT Student At Dong Nai University Of Technology
-* Learning To Become A Backend Developer
-* Rebuilding Programming Foundation From Scratch
-* Focus On Understanding Systems And Clean Code
+. Third-year IT student  
+. Rebuilding programming foundation from scratch  
+. Learning to become a Backend Developer  
+. Focus on system thinking and clean code  
 
 ---
 
-## Skills
-
-Languages:
-
-* HTML, CSS
-* JavaScript (In Progress)
-* SQL
-* C++
-* C#
-
-What I Can Do:
-
-* Build Clean And Responsive Web Interfaces
-* Structure Frontend Code Clearly
-* Design Relational Databases
-* Debug And Understand Code
-
----
-
-## Current Focus
-
-* Mastering Core JavaScript
-* Practicing SQL And Database Design
-* Learning Backend (API, Logic, Data Flow)
-* Exploring ASP.NET And Node.js
-
----
-
-## Tech Stack & Tools
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,mysql,git,github,vscode,nodejs,dotnet" />
@@ -55,27 +28,48 @@ What I Can Do:
 
 ---
 
-## Projects
+## GitHub Stats
 
-* E-Commerce Website (Minimal Style)
-* Music Streaming App (MusicEVE)
-* Database Design (Real-World Data)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" />
+</p>
 
 ---
 
-## Mindset
+## Contribution
 
-* Learn Deeply Instead Of Rushing
-* Build Things That Actually Work
-* Improve Step By Step Every Day
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## Projects
+
+. E-Commerce Website (ASP.NET / MVC)  
+. Music Streaming App (MusicEVE)  
+. Database Design (Real-world data)  
+
+---
+
+## Current Focus
+
+. JavaScript core  
+. SQL and database design  
+. Backend development (API, data flow)  
+. ASP.NET and Node.js  
 
 ---
 
 ## Contact
 
-Email: [diixprogramseven@gmail.com](mailto:your-email@gmail.com)
+. Email: diixprogramseven@gmail.com  
+. GitHub: https://github.com/YOUR_USERNAME  
 
 ---
 
-I Am Not Trying To Be Impressive.
-I Am Trying To Be Better Than Yesterday.
+## Mindset
+
+I am not trying to be impressive.  
+I am trying to be better than yesterday.
