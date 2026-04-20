@@ -31,8 +31,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DIIX-Program&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIIX-Program&layout=compact&theme=default" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DIIX-Program/DIIX-Program/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
