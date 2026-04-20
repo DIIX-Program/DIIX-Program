@@ -31,8 +31,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIIX-Program&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIIX-Program&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DIIX-Program&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIIX-Program&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ## Contact
 
 . Email: diixprogramseven@gmail.com  
-. GitHub: https://github.com/YOUR_USERNAME  
+. GitHub: https://github.com/DIIX-Program  
 
 ---
 
