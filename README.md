@@ -23,11 +23,14 @@
 
 ## Tech Stack
 
-Languages: JavaScript, C#, C++, SQL, HTML/CSS
+**Languages:** JavaScript, C#, C++, SQL, HTML/CSS
 
-Frameworks & Tools: ASP.NET, Node.js, MySQL, Git, GitHub, VS Code
+**Frameworks & Tools:** ASP.NET, Node.js, MySQL, Git, GitHub, VS Code
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,cs,cpp,mysql,html,css,dotnet,nodejs,git,github,vscode&theme=dark" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cs,cpp,mysql,html,css,dotnet,nodejs,git,github,vscode&theme=dark" />
+</p>
+
 ---
 
 ## GitHub Stats
@@ -38,7 +41,7 @@ Frameworks & Tools: ASP.NET, Node.js, MySQL, Git, GitHub, VS Code
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIIX-Program&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=DIIX-Program&theme=radical&hide_border=true" />
 </p>
 
 ---
