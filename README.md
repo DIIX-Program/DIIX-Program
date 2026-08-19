@@ -23,10 +23,11 @@
 
 ## Tech Stack
 
-**Languages:** JavaScript, C#, C++, SQL, HTML/CSS
+Languages: JavaScript, C#, C++, SQL, HTML/CSS
 
-**Frameworks & Tools:** ASP.NET, Node.js, MySQL, Git, GitHub, VS Code
+Frameworks & Tools: ASP.NET, Node.js, MySQL, Git, GitHub, VS Code
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,cs,cpp,mysql,html,css,dotnet,nodejs,git,github,vscode&theme=dark" /> </p>
 ---
 
 ## GitHub Stats
